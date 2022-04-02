@@ -1,12 +1,14 @@
 # Title
 
-Horiseon Web Page
+Horiseon Web Challenge 
 
 # Project Description
 
 The Horiseon website showcases the company's marketing objectives. They specialize in SEO, Online Reputation Management, Social Media Marketing, Lead Gen, Brand Awareness, and Cost Management. Each section has a short description to summarize the term referenced. This content is intended to help potential clients understand the full scopt in which Horiseon can assist their customers.
 
 This project was created, edited, and revised using HTML and CSS elements. CSS demonstrates use of background and font colors, image borders and positioning, font display, margin, padding, and box sizing.
+
+The project was continually added to, saved, and pushed to Github via the Terminal.
 
 # Expected Behavior
 
@@ -15,9 +17,6 @@ This project was created, edited, and revised using HTML and CSS elements. CSS d
 * When a user opens the page,they will see 3 content elements horizontally listed in the header: Social Media Marketing, Online Reputation Management, and Search Engine Optimization. Clicking on any one of these elements will direct you to that specific section on the web page.
 
 * When a user views the page, they will find that the HTML elements meet accessibility standards and fall in sequential order.
-
-
-# Assets
 
 
 MIT License
